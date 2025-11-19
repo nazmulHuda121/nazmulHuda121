@@ -80,13 +80,21 @@ When I’m not coding, I enjoy **learning new frameworks**, experimenting with m
 
 ## 🧩 Developer Workspace
 
-<table>
-<tr><td>💻 OS</td><td>macOS</td></tr>
-<tr><td>🧠 IDE</td><td>VS Code</td></tr>
-<tr><td>🛢 Database</td><td>MongoDB, Firebase</td></tr>
-<tr><td>🚀 Deployment</td><td>Vercel, Netlify</td></tr>
-<tr><td>🖥 Terminal</td><td>macOS Zsh</td></tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple" height="45" />  
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="45" />
+  <img src="https://skillicons.dev/icons?i=terminal" height="45" />
+</p>
+
+**OS:** macOS  
+**IDE:** VS Code  
+**Database:** MongoDB, Firebase  
+**Deployment:** Vercel, Netlify  
+**Terminal:** macOS Zsh 
 
 ---
 
