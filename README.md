@@ -106,11 +106,28 @@ Outside of coding, I enjoy learning new frameworks, experimenting with web tools
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmulHuda121&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulHuda121&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmulHuda121&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulHuda121&theme=tokyonight" height="160"/>
 </p>
 
+### 💠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulHuda121&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulHuda121&theme=tokyo-night" />
+</p>
+
+
 ---
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+------
+
 
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
