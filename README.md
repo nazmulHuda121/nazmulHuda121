@@ -89,14 +89,5 @@ When I’m not coding, I enjoy learning new frameworks, experimenting with moder
 
 ---
 
-## 📌 Pinned Repositories  
-(Add your real repo names)
-
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazmulHuda121&repo=project-1&theme=react"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazmulHuda121&repo=project-2&theme=react"/></a>
-</p>
-
----
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
