@@ -70,19 +70,6 @@ Outside of coding, I enjoy learning new frameworks, experimenting with web tools
 
 ---
 
-## 🔗 Social Links
-
-<p align="center">
-  <a href="https://github.com/nazmulHuda121"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="https://www.linkedin.com/in/nazmul-huda-87bbb4168/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://www.facebook.com/k.m.nazmul.huda.5">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="45" style="fill:#1877F2"/>
-</a>
-  <a href="https://x.com/naz_cse121"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-</p>
-
----
-
 ## 🧩 Developer Workspace
 
 <p align="left">
