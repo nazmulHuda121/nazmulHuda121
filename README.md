@@ -48,44 +48,22 @@ When I’m not coding, I enjoy learning new frameworks, experimenting with moder
 
 ---
 
-## 🛠 My Daily Tools (Organized Table)
+## 🛠 My Daily Tools
 
-<table>
-<tr>
-<td>📝 Code Editor</td><td>VS Code</td>
-</tr>
-<tr>
-<td>🎨 Design Tool</td><td>Figma</td>
-</tr>
-<tr>
-<td>📬 API Testing</td><td>Postman</td>
-</tr>
-<tr>
-<td>🔧 Version Control</td><td>Git & GitHub</td>
-</tr>
-<tr>
-<td>📦 Package Manager</td><td>NPM / Yarn</td>
-</tr>
-<tr>
-<td>🌐 Browser Tools</td><td>Chrome DevTools</td>
-</tr>
-<tr>
-<td>☁ Deployment</td><td>Vercel, Netlify</td>
-</tr>
-<tr>
-<td>🗂 Notes & Planning</td><td>Notion</td>
-</tr>
-</table>
+<p align="center"> 📝 <strong>VS Code</strong> &nbsp;&nbsp;&nbsp; 🎨 <strong>Figma</strong> &nbsp;&nbsp;&nbsp; 📬 <strong>Postman</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35" /> </p> <p align="center"> 🔧 <strong>Git & GitHub</strong> &nbsp;&nbsp;&nbsp; 📦 <strong>NPM / Yarn</strong> &nbsp;&nbsp;&nbsp; 🌐 <strong>Chrome DevTools</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="35" />&nbsp; <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="35" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" /> </p> <p align="center"> ☁ <strong>Vercel / Netlify</strong> &nbsp;&nbsp;&nbsp; 🗂 <strong>Notion</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />&nbsp; <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="35" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="35" /> </p>
+
 
 ---
 
 ## 🔗 Social Links
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="45"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://github.com/nazmulHuda121"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://www.linkedin.com/in/nazmul-huda-87bbb4168/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.facebook.com/k.m.nazmul.huda.5">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="45" style="fill:#1877F2"/>
+</a>
+  <a href="https://x.com/naz_cse121"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
 </p>
 
 ---
