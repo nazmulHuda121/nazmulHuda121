@@ -8,9 +8,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate MERN Stack Developer from Bangladesh.  
-I love building fast, scalable, and user-friendly web applications with modern tools.  
-Currently exploring **Next.js**, **full-stack APIs**, and enhancing UI/UX design skills.
+Hi, I'm Nazmul, a passionate MERN Stack Developer from Bangladesh. I love building fast, scalable, and user-friendly web applications using modern tools and technologies.
+
+I specialize in React, Node.js, Express, MongoDB, and Firebase, creating both frontend and backend solutions for real-world projects.
+
+I’m constantly exploring Next.js, full-stack APIs, and improving UI/UX design skills to make web applications more interactive and engaging.
+
+When I’m not coding, I enjoy learning new frameworks, experimenting with modern web tools, and contributing to open-source projects.
 
 ---
 
