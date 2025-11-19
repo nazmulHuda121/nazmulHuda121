@@ -1,9 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/2d4bCz1x/dev-banner.png" width="100%" alt="Banner"/>
+  <a href='https://postimg.cc/k2md3m1h' target='_blank'><img src='https://i.postimg.cc/W1DpZpMj/Banner.png' border='0' alt='Banner'></a>
 </p>
-
-<h1 align="center">✨ Hi, I'm <span style="color:#0EA5E9">Nazmul Khan</span></h1>
 <h3 align="center">MERN Stack Developer | Frontend Specialist</h3>
 
 ---
