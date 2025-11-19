@@ -8,14 +8,19 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Nazmul**, a passionate **MERN Stack Developer** from Bangladesh. 🌏  
-I love building **fast, scalable, and user-friendly web applications** using modern tools and technologies. ⚡
+<p align="left" style="font-size: 22px; line-height: 1.3;">
 
-I specialize in **React**, **Node.js**, **Express**, **MongoDB**, and **Firebase**, creating both frontend and backend solutions for real-world projects. 💻  
+<strong>Hi, I'm Nazmul</strong> — a passionate <strong>MERN Stack Developer</strong> from Bangladesh. 🌏  
+I love building <strong>fast, scalable, and user-friendly</strong> web applications using modern technologies. ⚡  
 
-I’m constantly exploring **Next.js**, **full-stack APIs**, and improving **UI/UX design** skills to make web applications more interactive and engaging. 🎨  
+I specialize in <strong>React, Node.js, Express, MongoDB, and Firebase</strong>, creating both frontend and backend solutions for real-world projects. 💻  
 
-When I’m not coding, I enjoy **learning new frameworks**, experimenting with modern web tools, and **contributing to open-source projects**. 🚀  
+Currently exploring <strong>Next.js</strong>, full-stack APIs, and enhancing <strong>UI/UX design</strong> skills to make applications more interactive and engaging. 🎨  
+
+Outside of coding, I enjoy learning new frameworks, experimenting with web tools, and contributing to open-source projects. 🚀  
+
+</p>
+ 
 
 ---
 
